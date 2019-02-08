@@ -15,7 +15,7 @@ public class ElbonianArabicConverter {
 
     // A string that holds the number (Elbonian or Arabic) you would like to convert
     private final String number;
-     
+
 
 
     /**
